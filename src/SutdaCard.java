@@ -14,7 +14,6 @@ public class SutdaCard {
 }
 class Exercise6_2{
     public static void main(String[] args) {
-        SutdaCard card1 = new SutdaCard();
-        SutdaCard card2 = new SutdaCard();
+        System.out.println("Hello world");
     }
 }
